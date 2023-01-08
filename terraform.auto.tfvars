@@ -1,1 +1,1 @@
-instance_type = "t2.small"
+instance_type = "r6g.2xlarge"
